@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.wikia.homework.LoginSuccessfulTest" duration-ms="16841" started-at="2015-06-21T21:29:48Z" finished-at="2015-06-21T21:30:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="16841" started-at="2015-06-21T21:29:48Z" finished-at="2015-06-21T21:30:05Z">
+      <class name="com.wikia.homework.LoginSuccessfulTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wikia.homework.LoginSuccessfulTest@4b1f74aa]" name="setUp" is-config="true" duration-ms="10484" started-at="2015-06-21T23:29:48Z" finished-at="2015-06-21T23:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginSuccessful()[pri:0, instance:com.wikia.homework.LoginSuccessfulTest@4b1f74aa]" name="loginSuccessful" duration-ms="6265" started-at="2015-06-21T23:29:58Z" finished-at="2015-06-21T23:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessful -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wikia.homework.LoginSuccessfulTest@4b1f74aa]" name="tearDown" is-config="true" duration-ms="81" started-at="2015-06-21T23:30:05Z" finished-at="2015-06-21T23:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wikia.homework.LoginSuccessfulTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.wikia.homework.LoginSuccessfulTest -->
+</testng-results>
